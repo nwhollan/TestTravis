@@ -1,9 +1,8 @@
 lnguage: java
 jdk: 
     -oraclejdk13 
-script: 
-    -ant build
-    -sonar-scanner
+script:
+    -ant build-sonar-scanner
 addons:
   sonarcloud:
     organization: "nwhollan"
