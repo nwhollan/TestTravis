@@ -1,4 +1,4 @@
 lnguage: java
 jdk: 
-    -oraclejdk8 
+    -oraclejdk13 
 script: ant build
