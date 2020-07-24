@@ -6,6 +6,6 @@ script:
     - sonar-scanner
 addons:
   sonarcloud:
-    organization: "nwhollan"
+    organization: "Z-github"
     token:
         secure: "Bfjtm5f5zqamBYD78vHqUHVcSi4C7KC6zigDIWn6Lbxx76g1X0N9iqiRYoIAdzCf8Oi8FendqFMmhmuEGIvP3qQ1fqYeF1C1CByyKELL2kr3lwYys1cunitccp5XgbPS3LOs7EYVlpwUVHK91aiAlpDlLZrhygSNzLgWeI/4TS59Za6jDSxKcbcKBveSvnhFIK+g40e+q7mkWPEe5Saqbty3MCW7jfxmpYiEEFIrPEfBG6EglepwHEkyF2ZRRN5P74yHcmTExiRSwyn62P3aPHrnJWKuH9dOM0F2+EOherWnGKk9eXyGC3+9ZGQuKWg1/olLiciyQZI88MvrzoBHTiPv2Vo1r7MQS8quF7FpexkbWrW5GVDj+Ci++F2FKYcn1I2qriT7R4wqnhG/wKFTSE4a2XLNbj5GHeC+W188Ekr0YLDsK6pg9XsbwhKABa/IYapIYrCsgcsVERCEcjsn8fBjpTK4Z7Q6o1ekhuJps+GtDOJEysAZfo0hgYbZWtcqpuYMzyLkxBsoYfBZ+uQlVwVKPEwNl6G5R5GRKLeTRpJMIc0dPc4KGw7Dy3v4iwE8VlfK+2QSKSRDRdgKMfPPuBQYDzAK3Cc0ZeRuJAkxtoaUk2g37OkfljK0pdqaEutU3K950SI3oWZ91jzsfvjZvsGceiLKotqQZQ2yWUBvNmc="
